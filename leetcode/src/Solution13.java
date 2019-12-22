@@ -8,7 +8,7 @@ import java.util.List;
  * @date 2019/12/2214:29
  */
 
-public class Solution12 {
+public class Solution13 {
 
     public int romaToInt(String roma) {
         int numInt = 0;
